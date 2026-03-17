@@ -81,6 +81,6 @@ By the end of these sessions, learners are able to:
 
 ## 👨‍🏫 Author
 
-Created and conducted by **[Your Name]**
+Created and conducted by ** Jagmohan Rai (FSD Trainer C2115)**
 
 ---
